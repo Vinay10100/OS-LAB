@@ -2,7 +2,7 @@
 
 ## Index
 
-  - [Fork() System Call](./Codes/fork().c)
+  - [Fork() System Call](./codes/fork().c)
   - [Even and Odd Number Sum]
   - [Orphan Process]
   - [Zombie Process]
