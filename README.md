@@ -10,4 +10,4 @@
   - [SRTF(Shortest Remaining Time First)](./codes/SRTF_using_Array.c)
   - [Round Robin Scheduling](./codes/Round_Robin.c)
   - [Preemptive Priority CPU scheduling](./codes/Preemptive_Priority_CPU_scheduling.c)
-  - [Pipe() System Call](./code/Pipe().c)
+  - [Pipe() System Call](./codes/Pipe().c)
