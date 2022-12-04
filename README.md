@@ -9,3 +9,4 @@
   - [FCFS CPU Scheduling]
   - [SRTF(Shortest Remaining Time First)]
   - [Round Robin Scheduling]
+  - [Preemptive Priority CPU scheduling]
