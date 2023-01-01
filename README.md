@@ -16,5 +16,6 @@
   - [Bankers Algorithm](./codes/Bankers_Algorithm.c)
   - [FIFO page replacement](./codes/FIFO_page_replacement.c)
   - [LRU page replacement](./codes/LRU_page_replacement.c)
+  - [FCFS Disk Scheduling](./codes/FCFS_Disk_Scheduling.c)
   - [SCAN Disk Scheduling](./codes/Scan_Disk_Scheduling.c)
   - [CSCAN Disk Scheduling](./codes/CSCAN_Disk_Scheduling.c)
